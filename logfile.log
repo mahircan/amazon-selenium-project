@@ -1,0 +1,4 @@
+2021-09-28 18:24:00,360 INFO  [Log] search_a_product() Passed! 
+2021-09-28 18:24:02,185 INFO  [Log] select_a_product() Passed! 
+2021-09-28 18:24:03,109 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-09-28 18:24:04,100 INFO  [Log] go_to_Cart() Passed! 
